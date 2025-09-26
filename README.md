@@ -29,3 +29,4 @@ This is a link:
 
 This is a logo:
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Fender Telecaster](images/tele.jpg)
