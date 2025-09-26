@@ -1,2 +1,11 @@
-# markdown
-Building my first markdown site
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
+*this text is italic*
+_so is this one_
+
+This is just regular text.
