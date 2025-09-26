@@ -9,3 +9,18 @@
 _so is this one_
 
 This is just regular text.
+**this is my bold text**
+***this is bold and italic text***
+
+Unordered list:
+- Item 1
+- Item 2
+    - Item 2a
+    - Item 2b
+- Item 3
+
+Ordered list
+1. First item
+2. Second item
+3. Third item
+
