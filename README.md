@@ -24,3 +24,8 @@ Ordered list
 2. Second item
 3. Third item
 
+This is a link:
+[happy link](https://m.youtube.com/watch?v=dQw4w9WgXcQ)
+
+This is a logo:
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
